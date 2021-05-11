@@ -43,6 +43,10 @@ The source code is splitted into multiple notebooks, each representing a distinc
 
 The original dataset was transformed according to each pipeline stage. Multiple versions of the dataset can be found, produced and consumed during each pipeline stage.
 
+### Executed Notebooks
+
+In the [output](output) folder, you can find the output of all notebooks after their execution in the Amazon Web Services environment. The notebooks were exported in HTML format.
+
 ### Resources
 
 In the [resources](resources) folder, you can find the files that were used in the final [report](documents/capstone.md) ([pdf](documents/capstone.pdf)) of the capstone project.
